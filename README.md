@@ -13,3 +13,11 @@ python3 main.py
 ```
 
 Writes the excuse line to `/output/entry.txt`.
+
+## Line
+
+> Progress was blocked by a dependency named Me, which has been marked blocked for three business days.
+
+---
+
+[Entered on make.fun](https://make.fun/?ref=y0qfr724)
